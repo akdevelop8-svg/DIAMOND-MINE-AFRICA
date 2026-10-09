@@ -1,0 +1,7 @@
+{
+  "name": "Diamondmine Africa",
+  "description": "Digital mining platform for African mineral resources - Today We Create, Tomorrow We Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
